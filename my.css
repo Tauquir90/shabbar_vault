@@ -1,0 +1,83 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+h1,h3{
+
+font-family: 'Shadows Into Light Two', cursive;
+}
+.start{
+  background-color: powderblue;
+
+  width:100%;
+
+  padding-left: 1px;
+  padding-right: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.middle-container{
+  background-color: #ffd384;
+
+
+}
+.bottom-container{
+    background-color: #faf3e0;
+  }
+
+
+#cloud
+{
+  position: relative;
+  left:250px;
+}
+
+
+
+#cloud2{
+  position:absolute;
+  left: 350px;
+
+}
+
+h1
+{
+  font-size: 3em;
+  width: 30%;
+  margin: 0  auto;
+}
+p
+{
+  font-size: 2em;
+
+  margin-top:50px;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+
+}
+ #mountain:
+{
+  width: 400px;
+}
+#laugh{
+
+  font-family: 'Bangers', cursive;
+
+font-family: 'Shadows Into Light Two', cursive;
+}
+#me{
+  border-radius: 50%;
+  length:500px;
+
+}
+#attitude{
+
+  font-family: 'Bangers', cursive;
+
+font-family: 'Shadows Into Light Two', cursive;
+}
+h3
+{
+  font-size:2.5em;
+}
